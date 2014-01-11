@@ -19,7 +19,7 @@ This library works with Node.JS 0.8.x and up and has been tested with 0.8.23 and
 
 ### Installing this Library
 
-npm install node-sensordrone-bt
+npm install sensordrone-bt
 
 ### Connecting a Sensordrone
 
