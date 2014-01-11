@@ -1,0 +1,26 @@
+{
+  "name": "sensordrone-bt",
+  "version": "0.0.1",
+  "description": "Bluetooth 2.1 API Library for the Sensordrone on Node.js",
+  "main": "src/bluetooth.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ambientBOX/node-sensordrone-bt.git"
+  },
+  "keywords": [
+    "sensordrone",
+    "sensor drone"
+  ],
+  "author": "Paul Ryan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ambientBOX/node-sensordrone-bt/issues"
+  },
+  "dependencies": {
+    "serialport": "~1.2.5"
+  },
+  "devDependencies": {
+    "async": "~0.2.9",
+    "winston": "~0.7.2"
+  }
+}
