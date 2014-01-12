@@ -31,7 +31,7 @@ _Note: You must connect to this bluetooth device as a serial paired device on li
 ### Testing Your Connection
 
 * Connect your sensordrone to this computer
-* Run _SENSORDRONE_PORT=<sensordrone serial port> node test/test.js_
+* Run ```SENSORDRONE_PORT=<sensordrone serial port> node test/test.js```
 
 ## LICENSE
 
